@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="Bullet">resources/images/Bullet.png</file>
+        <file alias="chicken1">resources/images/chicken1.png</file>
+        <file alias="LevelOneBack">resources/images/LevelOneBack.png</file>
+        <file alias="chicken2">resources/images/chicken2.png</file>
+        <file alias="ship">resources/images/ship.png</file>
+        <file alias="Heart1">resources/images/Heart1.png</file>
+        <file alias="explosion">resources/images/explosion.png</file>
+
+        <file alias="heat-vision">resources/Sounds/heat-vision.mp3</file>
+    </qresource>
+</RCC>
