@@ -1,0 +1,34 @@
+# ninja log v5
+58	475	7419875163772101	chiken_invaders_autogen/timestamp	bb3a4c88bd754d90
+58	475	7419875163772101	chiken_invaders_autogen/mocs_compilation.cpp	bb3a4c88bd754d90
+426	3896	7419845852939188	CMakeFiles/chiken_invaders.dir/src/Game.cpp.obj	4a7859c2342b03ea
+634	3573	7419590603408568	CMakeFiles/chiken_invaders.dir/chiken_invaders_autogen/mocs_compilation.cpp.obj	a80291d033131a28
+637	3083	7419590598500812	CMakeFiles/chiken_invaders.dir/main.cpp.obj	6fd8d0253008d24a
+3749	4351	7419876094623864	chiken_invaders.exe	d15fcf9f78f9243e
+23	170	7419876055364550	chiken_invaders_autogen/EWIEGA46WW/qrc_resources.cpp	dfd48ba33fba247e
+18	1730	7419943449680894	build.ninja	9fd70914b3234bd5
+171	3748	7419876091171827	CMakeFiles/chiken_invaders.dir/chiken_invaders_autogen/EWIEGA46WW/qrc_resources.cpp.obj	bf2f876d90960a65
+463	2473	7419764807363699	CMakeFiles/chiken_invaders.dir/src/view/Score.cpp.obj	9b628160b7494823
+198	2563	7419672722225148	CMakeFiles/chiken_invaders.dir/src/view/chicken.cpp.obj	b4e7559739a63ed4
+303	3219	7419690563942623	CMakeFiles/chiken_invaders.dir/src/view/SpaceShip.cpp.obj	2ab35436f23e2685
+58	475	7419875163772101	C:/Users/Asifa Rahimi/Desktop/chicken/cmake-build-debug/chiken_invaders_autogen/timestamp	bb3a4c88bd754d90
+429	3308	7419758392035554	CMakeFiles/chiken_invaders.dir/src/view/Health.cpp.obj	804679c0d49f4e50
+58	475	7419875163772101	C:/Users/Asifa Rahimi/Desktop/chicken/cmake-build-debug/chiken_invaders_autogen/mocs_compilation.cpp	bb3a4c88bd754d90
+23	170	7419876055364550	C:/Users/Asifa Rahimi/Desktop/chicken/cmake-build-debug/chiken_invaders_autogen/EWIEGA46WW/qrc_resources.cpp	dfd48ba33fba247e
+815	5048	7419875209209693	CMakeFiles/chiken_invaders.dir/src/view/Bullet.cpp.obj	47da69c69ecb4163
+23	1542	7419943954099865	chiken_invaders_autogen/timestamp	5608d219c66f7e12
+23	1542	7419943954099865	chiken_invaders_autogen/mocs_compilation.cpp	5608d219c66f7e12
+23	1542	7419943954099865	C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/cmake-build-debug/chiken_invaders_autogen/timestamp	5608d219c66f7e12
+23	1542	7419943954099865	C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/cmake-build-debug/chiken_invaders_autogen/mocs_compilation.cpp	5608d219c66f7e12
+1542	1753	7419943956603480	chiken_invaders_autogen/EWIEGA46WW/qrc_resources.cpp	2f98441a64f81e0d
+1542	1753	7419943956603480	C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/cmake-build-debug/chiken_invaders_autogen/EWIEGA46WW/qrc_resources.cpp	2f98441a64f81e0d
+1757	5382	7419943992932697	CMakeFiles/chiken_invaders.dir/main.cpp.obj	af1913864a7894f8
+1753	5435	7419943993463873	CMakeFiles/chiken_invaders.dir/chiken_invaders_autogen/mocs_compilation.cpp.obj	5e10f41ba8f571c
+1763	5530	7419943994423451	CMakeFiles/chiken_invaders.dir/src/Game.cpp.obj	9052de6cf87bbd68
+5435	8611	7419944025186318	CMakeFiles/chiken_invaders.dir/src/view/SpaceShip.cpp.obj	e2ce80b5d7220f7a
+5383	8757	7419944026687737	CMakeFiles/chiken_invaders.dir/src/view/chicken.cpp.obj	dab484881a00e88e
+5530	8773	7419944026738303	CMakeFiles/chiken_invaders.dir/src/view/Bullet.cpp.obj	74c68774900074b
+8611	10899	7419944048102942	CMakeFiles/chiken_invaders.dir/src/view/Score.cpp.obj	91e6d967e1712050
+8757	11088	7419944050018125	CMakeFiles/chiken_invaders.dir/src/view/Health.cpp.obj	5df6fd2d51864461
+8773	12708	7419944066237950	CMakeFiles/chiken_invaders.dir/chiken_invaders_autogen/EWIEGA46WW/qrc_resources.cpp.obj	2d12d78e7435f5b
+12708	14266	7419944076357066	chiken_invaders.exe	364d8db4a629e0a6

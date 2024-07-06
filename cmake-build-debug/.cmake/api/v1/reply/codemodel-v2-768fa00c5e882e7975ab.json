@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chiken_invaders",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "chiken_invaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chiken_invaders-Debug-8521b1877963d08a295c.json",
+					"name" : "chiken_invaders",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chiken_invaders_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chiken_invaders_autogen-Debug-c473b63a027903d4f2ec.json",
+					"name" : "chiken_invaders_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chiken_invaders_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chiken_invaders_autogen_timestamp_deps-Debug-33391b406eb7497f5819.json",
+					"name" : "chiken_invaders_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/cmake-build-debug",
+		"source" : "C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
