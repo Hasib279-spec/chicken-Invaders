@@ -5,11 +5,11 @@
 Health::Health(QGraphicsScene *scene, QObject *parent) : QObject(parent), health(3), scene(scene) {
     // Initialize heart pixmaps
     QPixmap heartPixmap(":/images/Heart1");
-    QPixmap scaledHeartPixmap = heartPixmap.scaled(40, 50); // Scale the heart to the desired size
+    QPixmap scaledHeartPixmap = heartPixmap.scaled(40, 50); // Scale the heart
 
     for (int i = 0; i < 3; ++i) {
         QGraphicsPixmapItem *heart = new QGraphicsPixmapItem(scaledHeartPixmap);
-        heart->setPos(i * 40, scene->height() - 50); // Position hearts in bottom left corner, adjust spacing
+        heart->setPos(i * 40, scene->height() - 50); // Position hearts in bottom left corner
         hearts.append(heart);
         scene->addItem(heart); // Add heart to the scene
     }

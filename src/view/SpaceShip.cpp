@@ -10,8 +10,8 @@ SpaceShip::SpaceShip(int sceneWidth, int sceneHeight, QGraphicsItem *parent)
 
     setScale(0.8);
 
-    // Adjust the initial position to be slightly above the bottom
-    int initialY = sceneHeight - pixmap.height() - 5; // Adjust 50 as needed
+    // Adjust the initial position
+    int initialY = sceneHeight - pixmap.height() - 5; // Adjust 5 as needed
     setPos(+sceneWidth / 2 - pixmap.width() / 2, initialY);
 }
 

@@ -1114,8 +1114,6 @@ C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/SpaceSh
  mdp:C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h
  mdp:C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/cmake-build-debug/chiken_invaders_autogen/moc_predefs.h
  mdp:C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/SpaceShip.h
-C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/chicken.cpp
-C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/Score.h
 C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/Health.h
  mmc:Q_OBJECT
  mdp:C:/Program Files/JetBrains/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm
@@ -1464,6 +1462,8 @@ C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/Health.
  mdp:C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h
  mdp:C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/cmake-build-debug/chiken_invaders_autogen/moc_predefs.h
  mdp:C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/Health.h
+C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/chicken.cpp
+C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/Score.h
 C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/chicken.h
  mmc:Q_OBJECT
  mdp:C:/Program Files/JetBrains/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm
@@ -1815,9 +1815,9 @@ C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/chicken
  mdp:C:/Qt/6.7.2/mingw_64/include/QtWidgets/qtwidgetsglobal.h
  mdp:C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/cmake-build-debug/chiken_invaders_autogen/moc_predefs.h
  mdp:C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/chicken.h
-C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/main.cpp
 C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/Game.cpp
-C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/SpaceShip.cpp
+C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/main.cpp
 C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/Bullet.cpp
+C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/SpaceShip.cpp
 C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/Health.cpp
 C:/Users/Asifa Rahimi/Desktop/chicken Invaders/chicken-Invaders/src/view/Score.cpp
